@@ -16,7 +16,8 @@ The dashboard helps answer questions such as:
 
 ## 🖼 Dashboard Preview
 
-![Zomato Sale Dashboard](Overview Dashboard.png)
+> *<img width="1353" height="736" alt="Zomato Sale Analysis" src="https://github.com/chandrashekhar9262/Zomato_Sale_Analysis/blob/main/Overview%20Dashboard.png" />
+*
 
 ---
 
