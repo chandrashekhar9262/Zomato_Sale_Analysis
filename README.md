@@ -16,7 +16,7 @@ The dashboard helps answer questions such as:
 
 ## 🖼 Dashboard Preview
 
-![Zomato Sale Dashboard](/mnt/data/Overview Dashboard.png)
+![Zomato Sale Dashboard](Overview Dashboard.png)
 
 ---
 
